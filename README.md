@@ -4,5 +4,6 @@ This is a project I started so I can have my wallpaper randomly using wallpapers
 - __Platform:__ Windows
 - __Latest Version:__ 1.0.0.0
 - __Author Reddit Link:__ http://www.reddit.com/user/Ugleh/
+- __Support Reddit Link:__ http://www.reddit.com/r/rwallpaperchanger
 
 ---------------------------------------
