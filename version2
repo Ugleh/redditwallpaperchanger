@@ -1,0 +1,7 @@
+Version 1.0.4.1
+Changed Tray Icon to always be visible.
+Added a Help section to the Search Query.
+Changed the Updater, won't see its effect until a new update.
+- Will now display Changelog in GUI
+- Will now update in the program
+Added "Days" option to rotation time.
