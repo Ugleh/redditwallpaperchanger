@@ -1,4 +1,7 @@
-Version 1.0.4.1
+Version 1.0.4.2
+- Fixed "Parameter Not Found" Crash/Bug.
+
+Previous Update:
 -Changed Tray Icon to always be visible.
 -Added a Help section to the Search Query.
 -Changed the Updater, won't see its effect until a new update.
