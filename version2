@@ -7,3 +7,4 @@ Version 1.0.4.1
 -Added "Days" option to rotation time.
 -Settings will persist through new updates.
 -Wallpapers will no longer repeat unless your search query produces only one result or all wallpapers from query have already been used..
+-Because of that, Added "Week", "Month", "Year", "All" option to grab type.
