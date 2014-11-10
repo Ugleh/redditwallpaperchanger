@@ -1,8 +1,9 @@
 Version 1.0.4.1
-Changed Tray Icon to always be visible.
-Added a Help section to the Search Query.
-Changed the Updater, won't see its effect until a new update.
-- Will now display Changelog in GUI
-- Will now update in the program and restart itself.
-Added "Days" option to rotation time.
-Settings will persist through new updates.
+-Changed Tray Icon to always be visible.
+-Added a Help section to the Search Query.
+-Changed the Updater, won't see its effect until a new update.
+-- Will now display Changelog in GUI.
+-- Will now update in the program and restart itself.
+-Added "Days" option to rotation time.
+-Settings will persist through new updates.
+-Wallpapers will no longer repeat unless your search query produces only one result or all wallpapers from query have already been used..
