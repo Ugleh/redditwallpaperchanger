@@ -5,3 +5,4 @@ Changed the Updater, won't see its effect until a new update.
 - Will now display Changelog in GUI
 - Will now update in the program and restart itself.
 Added "Days" option to rotation time.
+Settings will persist through new updates.
