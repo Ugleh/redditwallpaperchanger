@@ -1,7 +1,13 @@
+Version 1.0.5.0
+- Added Imgur Album support. Needs Stress Testing.
+- Added GUI for Monitor Settings but not the code. Will do soon.
+- Added "Use This Wallpaper" on history tab. Changes to the selected one.
+
+
 Version 1.0.4.2
 - Fixed "Parameter Not Found" Crash/Bug.
 
-Previous Update:
+Version 1.0.4.0
 -Changed Tray Icon to always be visible.
 -Added a Help section to the Search Query.
 -Changed the Updater, won't see its effect until a new update.
