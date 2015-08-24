@@ -1,4 +1,7 @@
-Version 1.0.5.1
+Version 1.0.5.2
+- Fixed Repeating same wallpaper after going through all possible results.
+- Fixed some bugs caused by adding Imgur Album support.
+Previous Version
 - Added Imgur Album support. Needs Stress Testing.
 - Added GUI for Monitor Settings but not the code. Will do soon.
 - Added "Use This Wallpaper" on history tab. Changes to the selected one.
