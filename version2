@@ -1,4 +1,6 @@
-Version 1.0.5.3
+Version 1.0.5.4
+- Fixed a crashe dealing with randomizing an image.
+Previous Version (2)
 - If all possible images are depleted then it goes through the same ones again.
 - Fixed Repeating same wallpaper after going through all possible results.
 - Fixed some bugs caused by adding Imgur Album support.
