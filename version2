@@ -1,4 +1,5 @@
-Version 1.0.5.2
+Version 1.0.5.3
+- If all possible images are depleted then it goes through the same ones again.
 - Fixed Repeating same wallpaper after going through all possible results.
 - Fixed some bugs caused by adding Imgur Album support.
 Previous Version
