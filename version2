@@ -1,10 +1,6 @@
-Version 1.0.5.4
-- Fixed a crashe dealing with randomizing an image.
-Previous Version (2)
-- If all possible images are depleted then it goes through the same ones again.
-- Fixed Repeating same wallpaper after going through all possible results.
-- Fixed some bugs caused by adding Imgur Album support.
-Previous Version
-- Added Imgur Album support. Needs Stress Testing.
-- Added GUI for Monitor Settings but not the code. Will do soon.
-- Added "Use This Wallpaper" on history tab. Changes to the selected one.
+Version 1.0.5.5
+-Features
+-- I added a "Truly Random" Grab Type which feeds off of /r/subreddit/random. Meaning no strings attached. Seams to only work well with Picture "mostly" subreddits.
+
+-Bug Fixes
+-- I fixed some programing freezing/holding when setting a new wallpaper. Now you can freely change settings while it is still setting a new wallpaper.
