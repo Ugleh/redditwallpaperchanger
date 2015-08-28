@@ -1,6 +1,3 @@
-Version 1.0.5.5
--Features
--- I added a "Truly Random" Grab Type which feeds off of /r/subreddit/random. Meaning no strings attached. Seams to only work well with Picture "mostly" subreddits.
-
+Version 1.0.5.6
 -Bug Fixes
--- I fixed some programing freezing/holding when setting a new wallpaper. Now you can freely change settings while it is still setting a new wallpaper.
+--Fixed Multi Reddit support.
