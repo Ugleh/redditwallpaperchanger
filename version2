@@ -1,3 +1,5 @@
-Version 1.0.5.8
--General Changes
---Changed change type 'Hot' to 24 Hours instead of All Time to match normal /hot.
+Version 1.0.5.9
+-Various Bug Fixes
+-- Fixed Crash when leaving RWC on History Tab.
+-- Changed a bit of redudent code I left when I was less experienced.
+-- Cleaning up how I stored some data
