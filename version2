@@ -1,5 +1,4 @@
-Version 1.0.5.9
--Various Bug Fixes
--- Fixed Crash when leaving RWC on History Tab.
--- Changed a bit of redudent code I left when I was less experienced.
--- Cleaning up how I stored some data
+Version 1.0.6.0
+- Added feature to Auto Start with Windows.
+- Changing out Starting Minimized works, it no longer produces the Tool Tip "I'm down here".
+- Added Deviant Art Link Support.
