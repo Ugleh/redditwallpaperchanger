@@ -4,7 +4,7 @@ RWC is a Standalone Wallpaper Rotator that uses Reddit as its hunting ground. Re
 
 RWC has Imgur Album support as well as Deviant Art link support. More support added regularly, all you have to do is go to the subreddit link below and contact me asking for it.
 - __Platform:__ Windows
-- __Latest Version:__ 1.0.6.0
+- __Latest Version:__ 1.0.6.1
 - __Author Reddit Link:__ http://www.reddit.com/user/Ugleh/
 - __Subreddit Link:__ http://www.reddit.com/r/rwallpaperchanger 
 
