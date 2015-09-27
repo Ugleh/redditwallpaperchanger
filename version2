@@ -1,4 +1,2 @@
-Version 1.0.6.0
-- Added feature to Auto Start with Windows.
-- Changing out Starting Minimized works, it no longer produces the Tool Tip "I'm down here".
-- Added Deviant Art Link Support.
+Version 1.0.6.1
+- General Bug Fixes
